@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlackLight Gaming Project</string>
+    <string name="score">Score : %s</string>
+</resources>

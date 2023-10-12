@@ -30,8 +30,7 @@
 
 * Click on “Clone or download” and copy the URL.
 
-* Use the git clone command along with the copied URL from earlier. $ git clone [url of this repo]
-
+* Use the git clone command along with the copied URL from earlier. $ git clone https://github.com/Vijay-Dahiya/assignment-game-4boxes
 Congratulations, you have created your first local clone from your remote Github repository.
 
 Open Android Studio. Go to File > New > Project From Version Control. Copy the link of this repositary. Paste the link in Url Box of Android Studio window and click on "Clone" button.
